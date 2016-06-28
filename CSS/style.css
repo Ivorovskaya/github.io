@@ -1,0 +1,44 @@
+body {
+    margin: auto; 
+    background: #ffffff;
+}
+
+h1 {
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin:0 auto;
+  width: 140px;
+  height: 150px; 
+}
+
+.text {
+  padding-left: 60px;
+  }
+
+.reason {
+  margin-top: 40px;
+  padding-left: 20px;
+  line-height: 30px;
+}
+
+.telephone{
+  margin-bottom: 45px;
+}
+
+.text-end{
+  margin-bottom: 70px;
+}
+
+.line {
+  margin-left: 40px;
+  margin-bottom: 30px;
+  border: none;
+  width: 500px;
+  height: 1px;
+  color: black;
+  background: black;
+ }
