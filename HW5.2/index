@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Piet Mondrian</title>
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/style.css">
+  </head>
+<body>
+  <div class="wrapper">
+   <table class="paint">
+<tr class="row1">
+	<td class="td1" colspan="2"></td>
+	<td class="td3" colspan="2"></td>
+	<td class="td5 yellow" colspan="2"></td>
+</tr>
+<tr class="row2">
+	<td class="td1"></td>
+	<td class="td2 red" colspan="3" rowspan="2"></td>
+	<td class="td5 yellow" colspan="2"></td>
+</tr>
+<tr class="row3">
+	<td class="td1" rowspan="2"></td>
+	<td class="td5"></td>
+	<td class="td6"></td>
+</tr>
+<tr class="row4">
+	<td class="td2 black"></td>
+  <td class="td3 black"></td>
+	<td class="td4"></td>
+	<td class="td5" colspan="2"></td>
+</tr>
+<tr class="row5">
+	<td class="td1 yellow" rowspan="3"></td>
+  <td class="td2 black"></td>
+  <td class="td3 black"></td>
+	<td class="td4"></td>
+	<td class="td5 blue" colspan="2" rowspan="2"></td>
+</tr>
+<tr class="row6">
+	<td class="td2" colspan="2" rowspan="2"></td>
+	<td class="td4 black"></td>
+</tr>
+<tr class="row7">
+	<td class="td4" colspan="3"></td>
+</table>
+</div>
+</body>
+</html>
